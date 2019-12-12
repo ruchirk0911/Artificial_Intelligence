@@ -1,0 +1,4 @@
+INDEX VERSION 1.127+C:\Users\ruchi\Desktop\STUDY\SEM 4\Machine learning\Assignment2\.metadata\.plugins\org.eclipse.jdt.core
+2632885671.index
+99087389.index
+3957953841.index
